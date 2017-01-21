@@ -1,10 +1,10 @@
-All things considered, I have a fairly small worldview of what an engineering team should be.  
+All things considered, I have a fairly small world-view of what an engineering team should be.  
 
 I've been out of college for only 4 years, where I have been at Ooyala for the entire duration.  While the team has changed, I've been part of the same team from the start. This limited perspective has put strong bias on my experiences, but I hope that I can share some perspective on teams and management that can be applied generally.
 
-Not everything here is fully cleaned up, but there are points in here that I firmly believe in.
-
 # Skills for good management
+
+I'm sure I don't know every facet of effective management, these are some skills that I believe are important.
 
 ## Strong mediation
 
@@ -26,13 +26,17 @@ Be able to explain things at multiple different levels.  From the mile-high, to 
 
 ## Be able to lead meetings
  
+If you are driving the meeting, be the one to start the conversation. Have defined agendas of topics to talk about.
+
+Everyone appreciates a note-taker at meetings.  Being able to write comprehensive notes (with action items) is an important skill.  I personally screenshare notes while I take them so people can read, and chime in if something is missing or incorrect
+
 When conversations get confusing, or meetings get off track, be able to reset the conversation to a known neutral point. 
 
 ## Be approachable
 
 Never be off-putting, or show frustration at someone coming to talk to you.  The worst thing to do is make someone think twice before talking to you about something.
 
-### Provide specific, pointed compliments
+### Provide specific, pointed acknowledgement
 
 Giving positive feedback is generally a good thing.  However, a key point is that the more specific you can be around your positive feedback, the more meaningful it is.
 
@@ -97,7 +101,6 @@ Introducing yourself to people on other teams, letting yourself be known as a co
 ## Organized company-wide events
 
 Gaming, Movie Night, Game Night, Weekend hangouts. Having a willingness to advocate and spend time to plan or schedule these events.
-
 
 ## Strong mentorship skills
 
