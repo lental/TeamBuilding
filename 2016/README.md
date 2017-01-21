@@ -32,21 +32,29 @@ When conversations get confusing, or meetings get off track, be able to reset th
 
 ### Provide very specific, pointed compliments
 
+Giving positive feedback is generally a good thing.  However, a key point is that the more specific you can be around your positive feedback, the more meaningful it is.
+
 Actively express your positive opinions whenever you have them - 
-  If you see a line of code that impressed you, tell them!
-  If you thought someone's explanation was very clear, tell them!
 
-Be very observant - Haircuts are the easiest. Acknowledge when someone cuts their hair, or if someone does their hair differently.  
+* If you see a line of code that impressed you, tell them!
+* If you thought someone's explanation was very clear, tell them!
+* If someone handled a tough situation gracefully
+* If someone thought of a solution that you didn't consider
 
-For some, you can acknlowedge if you like their particular outfit, or if you can go as far and acknowlege if someone got new clothes.
+I try to be very observant about appearance - Haircuts are the easiest. Acknowledge when someone cuts their hair, or if someone does their hair differently. Other observations can be around new shoes, glasses/contacts.  It's not necessarily about giving the compliment, but showing that you care about/respect your co-workers.
 
-Of course, understand people's boundries. some people may be more reserved than others.  
+Of course, understand peoples' boundries. some people may be appreciate this type of conversation more than others.  
 
 If you get into a very deep conversation with someone, thank them for their time, and express how nice it is to talk to them as such. It closes these types of conversations off nicely, and makes everyone feel good at the end.
 
-# What has made me stand out
+# What has made me stand out  
+
+For me, I built my reputation on two main traits: being personable and being a domain master. These two traits have given me the exposure and responsibilities I needed to succeed. Below are what I believe has built this reputation.
 
 ## An outgoing personality
+
+I'm generally willing to talk to anyone, and handle social situations in a respectful way. I sincerely want to know more about everyone around me
+
 ## An overall positive perspective of any situation
 
 The ability to be enthusiastic, especially when times are not always rosy.  You do need to stay honest and not sugar-coat everything, but you need to make sure people focus on the positives.
@@ -55,47 +63,41 @@ The ability to be enthusiastic, especially when times are not always rosy.  You 
 
 Clearly expressing the willingness to stop and answer any questions with the team. Many people will err on the side of "not bothering you".  If you express the openness to help, it will help some people's decision-making.
 
-Clearly express the desire to work directly with customers.
+Clearly express the desire to work directly with customers/stakeholders.
 
 ## The ability to diffuse tense situations
 
-* I go into a call with the attitude of helping answer any question a customer has
-* Listen to all of their issues before starting any conversation
+* Specifically with customer issues, I go into a call ready to answer any questions a customer has
+* I first listen to all of their issues before starting any conversation
 * Taking live notes, showing them on the screen, providng responses directly in the notes while talking, and distributing those notes after the fact
 * Always be able to acknlowedge their frustrations, reassure them that their observations are important, and provide resolutions when possible
 
 ## Making an honest effort to know every single person
 
-Sub-skills - Not feeling awkward asking someone their name, even if you were supposed to know it
-Introducing yourself to people on other teams, letting yourself be known as a contact for your team
+Remembering names is really hard, especially if you're some place new.  However, being able to say hi to someone by name shows respect.
+
+Sub-skill - Not feeling awkward asking someone their name, even if you were supposed to know it.
+
+Introducing yourself to people on other teams, letting yourself be known as a contact for your team. Many times people on other teams don't know who to contact when they need help in your domain.  Putting yourself there as an introduced point of contact makes you more exposed
 
 ## Ability to maintain casual conversation
 
+
+
 ## Willingness to make myself known on all levels of the organization
 
-Running cross-organization meetings
-Participating in cross-org groups
+* Running cross-organization meetings
+* Participating in cross-org groups
+* Finding gaps in the levels above you, and suggesting solutions.
 
-## Organized company-wide groups
+## Organized company-wide events
 
 Gaming, Movie Night, Game Night, Weekend hangouts. Having a willingness to advocate and spend time to plan or schedule these events.
 
-## Ability to give unfavorable/blunt opinions in a diffusing way, while providing adequate explanation
-
-A lot of the times its not good to beat around the bush.  Sometimes you need to be able to take your opinion, let it be known early, and provide all of your reasoning for your opinion
 
 ## Strong mentorship skills
 
-## Always did work above my job title
-
-The saying goes, when you're promoted, you're usually already doing the job of your new role. The best way to show that you deserve a higher level in a team is to contribute at that level.
-
-* As a SWE2 (project contributor), I would do what I can to show I can architect my project and future projects.
-* As a SWE3 (project lead), I would show I can understand and guide the entire product's direction.
-* As a SWE4 (team lead), I would show I can contribute on an organization's level.
-
-## Huge project management nerd
-
+Being able to work with someone new and ramp them up is a huge personal test of domain understanding.
 
 ## Willing to knowledge share
 
@@ -107,12 +109,11 @@ A great way to build repertoire within a team or organization is to present know
 * Clear goals for the presentation, callbacks to those original goals
 * Well practiced, metered speaking and timing
 
+Giving good presentations is important for building your reputation because your audience is expecting you to have a strong understanding of your subject. If you can't convince them of that, then you're only hurting your reputation.
+
 ## Ability to understand entire product space
 
 
-## Be willing to acknowledge the bigger picture
-
-Know that there is always a scale larger than what you see. Every level and every role has value, and necessarily contributes to the whole.
 
 # Self Improvement/Career Planning
 
@@ -122,9 +123,9 @@ Get to know what you are specifically good at, and what you need improvement on
 
 ## Make the effort to know the skills and drawbacks of every single person you know
 
-One of the most important traits is being able to determine what your peers do well (so you can learn from them) and what they do poorly (so you can make sure you don't do that either)
+IMHO, one of my most important traits is being able to determine what your peers do well (so you can learn from them) and what they do poorly (so you can make sure you don't do the same thing). Instead of just having a self-feedback loop, train your dataset with as many streams of input as possible.
 
-## Have an future goal in mind
+## Have a future goal in mind
 
 The question "Where do you see yourself in 5 years" seems cliche, but the whole point of it is to make sure you are working towards something. You're not supposed to be particuarly specific, but to at least have a target for you to hit.
 
@@ -135,4 +136,16 @@ The question "Where do you see yourself in 5 years" seems cliche, but the whole 
 
 ## Always build your career towards these goals
 
-The point of the exercise is to make sure any career change you have directly contributes to your future goals
+The point of the exercise is to make sure any career change you have directly contributes to your future goals. Your job history should represent a story of forward progress in your career.
+
+## Always work above your job title
+
+The saying goes, when you're promoted, you're usually already doing the job of your new role. The best way to show that you deserve a higher level in a team is to contribute at that level.
+
+* As a SWE2 (project contributor), I would do what I can to show I can architect my project and future projects.
+* As a SWE3 (project lead), I would show I can understand and guide the entire product's direction.
+* As a SWE4 (team architect), I would prove I can contribute on an organization's level.
+
+## Be willing to acknowledge the bigger picture
+
+Know that there is always a scale larger than what you see. Every level and every role has value, and necessarily contributes to the whole.
