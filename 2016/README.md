@@ -18,7 +18,7 @@ Any time, even if its only the slightest reference to something someone else sai
 
 ## Don't micromanage - Let your teammates make decisions, and let them fully experience the outcomes
 
-One of my personal flaws is that I feel like I know how to explain things in the clearest fashion.  When someone on my team explains something in less detail than I would have liked (for example, in an email, or a ticket, or during a meeting), I tend to speak up and provide more detail, hoping to clarify the situation for others.  Doing this has made my team members feel like they were being corrected publicly, which while that was not my intention, I can definitely acknowledge.  Being able to let other people ask questions, or asking quesitons myself to the team would give that person a better chance to provide detail themselves, as opposed to me taking over.
+One of my personal flaws is that I feel like I know how to explain things in the clearest fashion.  When someone on my team explains something in less detail than I would have liked (for example, in an email, or a ticket, or during a meeting), I tend to speak up and provide more detail, hoping to clarify the situation for others.  Doing this has made my team members feel like they were being corrected publicly, which while that was not my intention, I can definitely acknowledge.  Being able to let other people ask questions, or asking questions myself to the team would give that person a better chance to provide detail themselves, as opposed to me taking over.
 
 ## Be able to summarize everything
 
@@ -28,9 +28,11 @@ Be able to explain things at multiple different levels.  From the mile-high, to 
  
 When conversations get confusing, or meetings get off track, be able to reset the conversation to a known neutral point. 
 
-## Be approachble
+## Be approachable
 
-### Provide very specific, pointed compliments
+Never be off-putting, or show frustration at someone coming to talk to you.  The worst thing to do is make someone think twice before talking to you about something.
+
+### Provide specific, pointed compliments
 
 Giving positive feedback is generally a good thing.  However, a key point is that the more specific you can be around your positive feedback, the more meaningful it is.
 
@@ -43,7 +45,7 @@ Actively express your positive opinions whenever you have them -
 
 I try to be very observant about appearance - Haircuts are the easiest. Acknowledge when someone cuts their hair, or if someone does their hair differently. Other observations can be around new shoes, glasses/contacts.  It's not necessarily about giving the compliment, but showing that you care about/respect your co-workers.
 
-Of course, understand peoples' boundries. some people may be appreciate this type of conversation more than others.  
+Of course, understand peoples' boundaries. some people may be appreciate this type of conversation more than others.  
 
 If you get into a very deep conversation with someone, thank them for their time, and express how nice it is to talk to them as such. It closes these types of conversations off nicely, and makes everyone feel good at the end.
 
@@ -65,13 +67,6 @@ Clearly expressing the willingness to stop and answer any questions with the tea
 
 Clearly express the desire to work directly with customers/stakeholders.
 
-## The ability to diffuse tense situations
-
-* Specifically with customer issues, I go into a call ready to answer any questions a customer has
-* I first listen to all of their issues before starting any conversation
-* Taking live notes, showing them on the screen, providng responses directly in the notes while talking, and distributing those notes after the fact
-* Always be able to acknlowedge their frustrations, reassure them that their observations are important, and provide resolutions when possible
-
 ## Making an honest effort to know every single person
 
 Remembering names is really hard, especially if you're some place new.  However, being able to say hi to someone by name shows respect.
@@ -83,12 +78,21 @@ Introducing yourself to people on other teams, letting yourself be known as a co
 ## Ability to maintain casual conversation
 
 
+## The ability to diffuse tense situations
+
+* Specifically with customer issues, I go into a call ready to answer any questions a customer has
+* I first listen to all of their issues before starting any conversation
+* Taking live notes, showing them on the screen, providing responses directly in the notes while talking, and distributing those notes after the fact
+* Always be able to acknowledge their frustrations, reassure them that their observations are important, and provide resolutions when possible
+
 
 ## Willingness to make myself known on all levels of the organization
 
 * Running cross-organization meetings
 * Participating in cross-org groups
-* Finding gaps in the levels above you, and suggesting solutions.
+* Finding gaps in the levels above you, and suggesting solutions
+* Organization-wide presentations or skillshares
+* Having yourself known to people 2+ levels above you, both direct and indirect. In other words, not just your boss and his boss, but others on their respective levels
 
 ## Organized company-wide events
 
@@ -127,10 +131,10 @@ IMHO, one of my most important traits is being able to determine what your peers
 
 ## Have a future goal in mind
 
-The question "Where do you see yourself in 5 years" seems cliche, but the whole point of it is to make sure you are working towards something. You're not supposed to be particuarly specific, but to at least have a target for you to hit.
+The question "Where do you see yourself in 5 years" seems cliche, but the whole point of it is to make sure you are working towards something. You're not supposed to be particularly specific, but to at least have a target for you to hit.
 
 * Do you just want to grow in your current position, be promoted from Senior to Staff? Do you have goals to be in people management?
-* Do you want to pivot from software develpment? Would you want to switch from raw coding do project or product management?
+* Do you want to pivot from software development? Would you want to switch from raw coding do project or product management?
 * Do you want to pivot domains? Do you want to leave finance tech, and move into consumer electronics?
 * Do you want to pivot stacks? Would you rather be doing serverside work over client side? Would you want to do SRE work? Data science?
 
